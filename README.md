@@ -10,7 +10,8 @@
 
 > **우아한 타입스크립트 with 리액트 -** 우아한형제들 웹프론트개발그룹
 
-<img src="https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791169211567.jpg" width="360" height="450">
+| <img src="https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791169211567.jpg" width="200px" /> |
+| ------------------------------------------------------ |
 
 ## **⌚ 요일 & 시간**
 
