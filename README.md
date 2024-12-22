@@ -81,7 +81,16 @@
 
 ## **📅 일정표**
 
-<table>
+<table min-width="200">
+  <thead height="50" >
+    <tr>
+      <td align="center">일시</td>
+      <th align="center">목차</th>
+      <td align="center">정리 링크</td>
+      <td align="center">문제 링크</td>
+      <td align="center">담당자</td>
+    </tr>
+  </thead>
   <tbody>
     <tr>
       <td align="center" colspan="5">0주차</td>
