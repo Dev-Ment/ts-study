@@ -1,6 +1,6 @@
 # ✏️ 타입스크립트 스터디
 
-<div align="left">  
+<div align="left">
 
 ## **🔥 스터디 목표**
 
@@ -11,7 +11,6 @@
 > **우아한 타입스크립트 with 리액트 -** 우아한형제들 웹프론트개발그룹
 
 <img src="https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791169211567.jpg" width="360" height="450">
-
 
 ## **⌚ 요일 & 시간**
 
@@ -24,39 +23,36 @@
 - **전반 30분**: 함께 정리본을 읽고 해당 챕터에 대한 질의응답 시간을 가집니다.
 - **후반 30분**: 출제된 문제를 풀고 답안을 확인합니다. 문제 출제자는 **issue**에 최종 답안을 작성하며 해당 issue를 종료합니다.
 
-
 ## 😎 스터디 멤버
+
 <table>
-<tbody>
-
-<tr>
-<td align="center"><img src="https://avatars.githubusercontent.com/u/172955596?v=4" width="150" /></td>
-<td align="center"><img src=" width="150" /></td>
-<td align="center"><img src="" width="150" /></td>
-<td align="center"><img src="" width="150" /></td>
-<td align="center"><img src="" width="150" /></td>
-<td align="center"><img src="" width="150" /></td>
-</tr>
-<tr>
-<th align="center">전성우</th>
-<th align="center">OOO</th>
-<th align="center">OOO</th>
-<th align="center">OOO</th>
-<th align="center">OOO</th>
-<th align="center">OOO</th>
-</tr>
-<tr>
-<td align="center" width="170"><a href="https://github.com/Castillou">@Sean</a></td>
-<td align="center" width="170"><a href="https://github.com/Castillou">OOO</a></td>
-<td align="center" width="170"><a href="https://github.com/Castillou">OOO</a></td>
-<td align="center" width="170"><a href="https://github.com/Castillou">OOO</a></td>
-<td align="center" width="170"><a href="https://github.com/Castillou">OOO</a></td>
-<td align="center" width="170"><a href="https://github.com/Castillou">OOO</a></td>
-</tr>
-
-</tbody>
+  <tbody>
+    <tr>
+      <td align="center"><img src="https://avatars.githubusercontent.com/u/172955596?v=4" width="150" /></td>
+      <td align="center"><img src=" width="150" /></td>
+      <td align="center"><img src="" width="150" /></td>
+      <td align="center"><img src="" width="150" /></td>
+      <td align="center"><img src="" width="150" /></td>
+      <td align="center"><img src="" width="150" /></td>
+    </tr>
+    <tr>
+      <th align="center">전성우</th>
+      <th align="center">OOO</th>
+      <th align="center">OOO</th>
+      <th align="center">OOO</th>
+      <th align="center">OOO</th>
+      <th align="center">OOO</th>
+    </tr>
+    <tr>
+      <td align="center" width="170"><a href="https://github.com/Castillou">@Sean</a></td>
+      <td align="center" width="170"><a href="https://github.com/Castillou">OOO</a></td>
+      <td align="center" width="170"><a href="https://github.com/Castillou">OOO</a></td>
+      <td align="center" width="170"><a href="https://github.com/Castillou">OOO</a></td>
+      <td align="center" width="170"><a href="https://github.com/Castillou">OOO</a></td>
+      <td align="center" width="170"><a href="https://github.com/Castillou">OOO</a></td>
+    </tr>
+  </tbody>
 </table>
-
 
 ## 📋 **스터디 진행**
 
@@ -67,21 +63,20 @@
 ### STEP 2. **내용 정리**
 
 - **챕터 담당자**는 스터디 전까지 내용을 정리합니다.
-    - 정리본은 **Markdown** 형식으로 작성하며, 파일명은 `담당자 이름`으로 합니다.
-    - 해당 챕터 폴더에 업로드합니다.
+  - 정리본은 **Markdown** 형식으로 작성하며, 파일명은 `담당자 이름`으로 합니다.
+  - 해당 챕터 폴더에 업로드합니다.
     (예: `[2장] 타입/전성우.md`)
-    - README에 업로드된 정리본을 연결합니다.
-    - **Branch**: `main`
-    - **Commit Message**: `🔖: [3장] 타입 - 전성우`
+  - README에 업로드된 정리본을 연결합니다.
+  - **Branch**: `main`
+  - **Commit Message**: `🔖: [3장] 타입 - 전성우`
 
 ### STEP 3. **문제 출제**
 
 - 챕터 담당자를 제외한 **나머지 스터디원**은 문제를 준비합니다.
-    - **GitHub Issue**에 해당 챕터의 **Label**을 적용해 문제를 작성합니다.
-    - 문제 작성 시 제공된 템플릿을 준수합니다.
-    - 문제는 **스터디 진행 전날부터 진행 직전까지** 등록합니다.
-    - 문제 출제자를 제외한 스터디원은 문제가 등록된 시점부터 스터디 진행 **30분 전**까지 답변을 작성합니다.
-
+  - **GitHub Issue**에 해당 챕터의 **Label**을 적용해 문제를 작성합니다.
+  - 문제 작성 시 제공된 템플릿을 준수합니다.
+  - 문제는 **스터디 진행 전날부터 진행 직전까지** 등록합니다.
+  - 문제 출제자를 제외한 스터디원은 문제가 등록된 시점부터 스터디 진행 **30분 전**까지 답변을 작성합니다.
 
 ## **📅 일정표**
 
@@ -215,7 +210,7 @@
 - 지각하는 경우 - 삼진아웃으로 3번 걸릴 시 커피 쏘기
 - 무단 결석하는 경우 - 2회 시 스터디에서 OUT
 - 발표 준비가 소홀한 경우 - 1회 5000원
-- 불가피한 사유(ex. 부고, 연인과의 이별)로 불참하는 경우에는 미리 슬랙 채널에 고지하면 벌칙이 면제된다.
+- 불가피한 사유(ex. 부고)로 불참하는 경우에는 미리 슬랙 채널에 고지하면 벌칙이 면제된다.
 
 <br>
 </div>
