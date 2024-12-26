@@ -35,9 +35,9 @@
     <tr>
       <td align="center"><img src="https://avatars.githubusercontent.com/u/172955596?v=4" width="150" /></td>
       <td align="center"><img src="https://avatars.githubusercontent.com/u/104114383?v=4" width="150" /></td>
-      <td align="center"><img src="" width="150" /></td>
+      <td align="center"><img src="https://avatars.githubusercontent.com/u/137462767?v=4" width="150" /></td>
       <td align="center"><img src="https://avatars.githubusercontent.com/u/92345556?v=4" width="150" /></td>
-      <td align="center"><img src="" width="150" /></td>
+      <td align="center"><img src="https://avatars.githubusercontent.com/u/125351071?v=4" width="150" /></td>
       <td align="center"><img src="https://avatars.githubusercontent.com/u/38457985?v=4" width="150" /></td>
     </tr>
     <tr>
@@ -51,9 +51,9 @@
     <tr>
       <td align="center" width="170"><a href="https://github.com/Castillou">@Sean</a></td>
       <td align="center" width="170"><a href="https://github.com/kdh990315">@kdh990315</a></td>
-      <td align="center" width="170"><a href="https://github.com/Castillou">OOO</a></td>
+      <td align="center" width="170"><a href="https://github.com/jaeyo03">@jaeyo03</a></td>
       <td align="center" width="170"><a href="https://github.com/jjeongsu">@jjeongsu</a></td>
-      <td align="center" width="170"><a href="https://github.com/Castillou">OOO</a></td>
+      <td align="center" width="170"><a href="https://github.com/DohyoungSeong">@DohyoungSeong</a></td>
       <td align="center" width="170"><a href="https://github.com/kimyougmin">@kimyougmin</a></td>
     </tr>
   </tbody>
