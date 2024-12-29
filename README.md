@@ -108,111 +108,111 @@
       <td align="center" colspan="5">1주차</td>
     </tr>
     <tr>
-      <td align="center">1/5(일)</td>
+      <td align="center">1/8(수)</td>
       <th align="left">[2장] 타입</th>
       <td><a href="https://github.com/Coding-Village-Protector/woowahan-ts/blob/main/%5B2%EC%9E%A5%5D%20%ED%83%80%EC%9E%85/%EC%9D%B4%EC%97%90%EC%8A%A4%EB%8D%94.md">정리</a>  </td>
       <td><a href="https://github.com/Coding-Village-Protector/woowahan-ts/issues?q=label%3A%22%5B2%EC%9E%A5%5D+%ED%83%80%EC%9E%85%22+is%3Aclosed">문제</a></td>
-      <td></td>
+      <td>전성우</td>
     </tr>
     <tr>
-      <td align="center"></td>
+      <td align="center">1/12(일)</td>
       <th align="left">[3장] 고급 타입</th>
       <td><a href="">정리</a></td>
       <td><a href="">문제</a></td>
-      <td></td>
+      <td>성도형</td>
     </tr>
     <tr>
       <td align="center" colspan="5">2주차</td>
     </tr>
     <tr>
-      <td align="center">1/12(일)</td>
+      <td align="center">1/15(수)</td>
       <th align="left">[4장] 타입 확장하기・좁히기</th>
       <td><a href="">정리</a></td>
       <td><a href="">문제</a></td>
-      <td></td>
+      <td>이정수</td>
     </tr>
     <tr>
-      <td align="center"></td>
+      <td align="center">1/19(일)</td>
       <th align="left">[5장] 타입 활용하기</th>
       <td><a href="">정리</a></td>
       <td><a href="">문제</a></td>
-      <td></td>
+      <td>김재영</td>
     </tr>
     <tr>
       <td align="center" colspan="5">3주차</td>
     </tr>
     <tr>
-      <td align="center">1/19(일)</td>
+      <td align="center">1/22(수)</td>
       <th align="left">[6장] 타입스크립트 컴파일</th>
       <td><a href="">정리</a></td>
       <td><a href="">문제</a></td>
-      <td></td>
+      <td>김영민</td>
     </tr>
     <tr>
-      <td align="center"></td>
+      <td align="center">1/26(일)</td>
       <th align="left">[7장] 비동기 호출</th>
       <td><a href="">정리</a></td>
       <td><a href="">문제</a></td>
-      <td></td>
+      <td>김동현</td>
     </tr>
     <tr>
       <td align="center" colspan="5">4주차</td>
     </tr>
     <tr>
-      <td align="center">1/26(일)</td>
+      <td align="center">1/29(수)</td>
       <th align="left">[8장] JSX에서 TSX로</th>
       <td><a href="">정리</a></td>
       <td><a href="">문제</a></td>
-      <td></td>
+      <td>전성우</td>
     </tr>
     <tr>
-      <td align="center"></td>
+      <td align="center">2/2(일)</td>
       <th align="left">[9장] 훅</th>
       <td><a href="">정리</a></td>
       <td><a href="">문제</a></td>
-      <td></td>
+      <td>성도형</td>
     </tr>
     <tr>
       <td align="center" colspan="5">5주차</td>
     </tr>
     <tr>
-      <td align="center">2/2(일)</td>
+      <td align="center">2/5(수)</td>
       <th align="left">[10장] 상태 관리</th>
       <td><a href="">정리</a></td>
       <td><a href="">문제</a></td>
-      <td></td>
+      <td>이정수</td>
     </tr>
     <tr>
-      <td align="center"></td>
+      <td align="center">2/9(일)</td>
       <th align="left">[11장] CSS-in-JS</th>
       <td><a href="">정리</a></td>
       <td><a href="">문제</a></td>
-      <td></td>
+      <td>김재영</td>
     </tr>
     <tr>
       <td align="center" colspan="5">6주차</td>
     </tr>
     <tr>
-      <td align="center">2/9(일)</td>
+      <td align="center">2/12(수)</td>
       <th align="left">[12장] 타입스크립트 프로젝트 관리</th>
       <td><a href="">정리</a></td>
       <td><a href="">문제</a></td>
-      <td></td>
+      <td>김영민</td>
     </tr>
     <tr>
-      <td align="center"></td>
+      <td align="center">2/16(일)</td>
       <th align="left">[13장] 타입스크립트와 객체 지향</th>
       <td><a href="">정리</a></td>
       <td><a href="">문제</a></td>
-      <td></td>
+      <td>김동현</td>
     </tr>
     <tr>
       <td align="center" colspan="5">7주차</td>
     </tr>
     <tr>
-      <td align="center">2/16(일)</td>
+      <td align="center">2/19(수)</td>
       <td colspan="3">최종 발표</td>
-      <td>전성우</td>
+      <td></td>
     </tr>
   </tbody>
 </table>
