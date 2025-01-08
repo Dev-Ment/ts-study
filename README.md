@@ -110,8 +110,8 @@
     <tr>
       <td align="center">1/8(수)</td>
       <th align="left">[2장] 타입</th>
-      <td><a href="https://github.com/Coding-Village-Protector/woowahan-ts/blob/main/%5B2%EC%9E%A5%5D%20%ED%83%80%EC%9E%85/%EC%9D%B4%EC%97%90%EC%8A%A4%EB%8D%94.md">정리</a>  </td>
-      <td><a href="https://github.com/Coding-Village-Protector/woowahan-ts/issues?q=label%3A%22%5B2%EC%9E%A5%5D+%ED%83%80%EC%9E%85%22+is%3Aclosed">문제</a></td>
+      <td><a href="https://github.com/Grow-Zone/ts-study/blob/main/2%EC%9E%A5_%ED%83%80%EC%9E%85/%EC%A0%84%EC%84%B1%EC%9A%B0.md">정리</a>  </td>
+      <td><a href="https://github.com/Grow-Zone/ts-study/issues?q=is%3Aissue+is%3Aclosed+label%3A%22%5B2%EC%9E%A5%5D+%ED%83%80%EC%9E%85%22">문제</a></td>
       <td>전성우</td>
     </tr>
     <tr>
