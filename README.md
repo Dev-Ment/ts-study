@@ -117,8 +117,8 @@
     <tr>
       <td align="center">1/12(일)</td>
       <th align="left">[3장] 고급 타입</th>
-      <td><a href="">정리</a></td>
-      <td><a href="">문제</a></td>
+      <td><a href="https://github.com/Dev-Ment/ts-study/blob/main/3%EC%9E%A5_%EA%B3%A0%EA%B8%89%ED%83%80%EC%9E%85/%EC%84%B1%EB%8F%84%ED%98%95.md">정리</a></td>
+      <td><a href="https://github.com/Dev-Ment/ts-study/issues?q=is%3Aissue+is%3Aclosed+label%3A%22%5B3%EC%9E%A5%5D+%EA%B3%A0%EA%B8%89+%ED%83%80%EC%9E%85%22">문제</a></td>
       <td>성도형</td>
     </tr>
     <tr>
