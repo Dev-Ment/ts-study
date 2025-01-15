@@ -127,8 +127,8 @@
     <tr>
       <td align="center">1/15(수)</td>
       <th align="left">[4장] 타입 확장하기・좁히기</th>
-      <td><a href="">정리</a></td>
-      <td><a href="">문제</a></td>
+      <td><a href="https://github.com/Dev-Ment/ts-study/blob/main/4%EC%9E%A5_%ED%83%80%EC%9E%85%ED%99%95%EC%9E%A5%ED%95%98%EA%B8%B0.%EC%A2%81%ED%9E%88%EA%B8%B0/%EC%9D%B4%EC%A0%95%EC%88%98.md">정리</a></td>
+      <td><a href="https://github.com/Dev-Ment/ts-study/issues?q=is%3Aissue+is%3Aclosed+label%3A%22%5B4%EC%9E%A5%5D+%ED%83%80%EC%9E%85+%ED%99%95%EC%9E%A5%ED%95%98%EA%B8%B0+%C2%B7+%EC%A2%81%ED%9E%88%EA%B8%B0%22">문제</a></td>
       <td>이정수</td>
     </tr>
     <tr>
