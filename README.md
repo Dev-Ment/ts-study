@@ -134,8 +134,8 @@
     <tr>
       <td align="center">1/19(일)</td>
       <th align="left">[5장] 타입 활용하기</th>
-      <td><a href="">정리</a></td>
-      <td><a href="">문제</a></td>
+      <td><a href="https://github.com/Dev-Ment/ts-study/blob/main/5%EC%9E%A5_%ED%83%80%EC%9E%85%ED%99%9C%EC%9A%A9%ED%95%98%EA%B8%B0/%EA%B9%80%EC%9E%AC%EC%98%81.md">정리</a></td>
+      <td><a href="https://github.com/Dev-Ment/ts-study/issues?q=is%3Aissue%20state%3Aclosed%20label%3A%22%5B5%EC%9E%A5%5D%20%ED%83%80%EC%9E%85%20%ED%99%9C%EC%9A%A9%ED%95%98%EA%B8%B0%22">문제</a></td>
       <td>김재영</td>
     </tr>
     <tr>
