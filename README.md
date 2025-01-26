@@ -144,8 +144,8 @@
     <tr>
       <td align="center">1/22(수)</td>
       <th align="left">[6장] 타입스크립트 컴파일</th>
-      <td><a href="">정리</a></td>
-      <td><a href="">문제</a></td>
+      <td><a href="https://github.com/Dev-Ment/ts-study/blob/main/6%E1%84%8C%E1%85%A1%E1%86%BC_%E1%84%90%E1%85%A1%E1%84%8B%E1%85%B5%E1%86%B8%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%B8%E1%84%90%E1%85%B3_%E1%84%8F%E1%85%A5%E1%86%B7%E1%84%91%E1%85%A1%E1%84%8B%E1%85%B5%E1%86%AF/%EA%B9%80%EC%98%81%EB%AF%BC.md">정리</a></td>
+      <td><a href="https://github.com/Dev-Ment/ts-study/issues?q=is%3Aissue%20state%3Aclosed%20label%3A%22%5B6%EC%9E%A5%5D%20%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%20%EC%BB%B4%ED%8C%8C%EC%9D%BC%22">문제</a></td>
       <td>김영민</td>
     </tr>
     <tr>
