@@ -151,8 +151,8 @@
     <tr>
       <td align="center">1/26(일)</td>
       <th align="left">[7장] 비동기 호출</th>
-      <td><a href="">정리</a></td>
-      <td><a href="">문제</a></td>
+      <td><a href="https://github.com/Dev-Ment/ts-study/blob/main/7%EC%9E%A5_%EB%B9%84%EB%8F%99%EA%B8%B0%20%ED%98%B8%EC%B6%9C/%EA%B9%80%EB%8F%99%ED%98%84.md">정리</a></td>
+      <td><a href="https://github.com/Dev-Ment/ts-study/issues?q=is%3Aissue%20state%3Aclosed%20label%3A%22%5B7%EC%9E%A5%5D%20%EB%B9%84%EB%8F%99%EA%B8%B0%20%ED%98%B8%EC%B6%9C%22">문제</a></td>
       <td>김동현</td>
     </tr>
     <tr>
