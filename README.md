@@ -161,8 +161,8 @@
     <tr>
       <td align="center">1/29(수)</td>
       <th align="left">[8장] JSX에서 TSX로</th>
-      <td><a href="">정리</a></td>
-      <td><a href="">문제</a></td>
+      <td><a href="https://github.com/Dev-Ment/ts-study/blob/main/8%EC%9E%A5_JSX%EC%97%90%EC%84%9C_TSX%EB%A1%9C/%EC%A0%84%EC%84%B1%EC%9A%B0.md">정리</a></td>
+      <td><a href="https://github.com/Dev-Ment/ts-study/issues?q=is%3Aissue%20state%3Aclosed%20label%3A%22%5B8%EC%9E%A5%5D%20JSX%EC%97%90%EC%84%9C%20TSX%EB%A1%9C%22">문제</a></td>
       <td>전성우</td>
     </tr>
     <tr>
