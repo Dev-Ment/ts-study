@@ -168,8 +168,8 @@
     <tr>
       <td align="center">2/2(일)</td>
       <th align="left">[9장] 훅</th>
-      <td><a href="">정리</a></td>
-      <td><a href="">문제</a></td>
+      <td><a href="https://github.com/Dev-Ment/ts-study/blob/main/9%EC%9E%A5_%ED%9B%85/%EC%84%B1%EB%8F%84%ED%98%95.md">정리</a></td>
+      <td><a href="https://github.com/Dev-Ment/ts-study/issues?q=is%3Aissue%20state%3Aclosed%20label%3A%22%5B9%EC%9E%A5%5D%20%ED%9B%85%22">문제</a></td>
       <td>성도형</td>
     </tr>
     <tr>
