@@ -176,17 +176,17 @@
       <td align="center" colspan="5">5주차</td>
     </tr>
     <tr>
-      <td align="center">2/5(수)</td>
+      <td align="center">2/9(일)</td>
       <th align="left">[10장] 상태 관리</th>
-      <td><a href="">정리</a></td>
-      <td><a href="">문제</a></td>
+      <td><a href="https://github.com/Dev-Ment/ts-study/blob/main/10%EC%9E%A5_%EC%83%81%ED%83%9C%EA%B4%80%EB%A6%AC/%EC%9D%B4%EC%A0%95%EC%88%98.md">정리</a></td>
+      <td><a href="https://github.com/Dev-Ment/ts-study/issues?q=is%3Aissue%20state%3Aclosed%20label%3A%22%5B10%EC%9E%A5%5D%20%EC%83%81%ED%83%9C%EA%B4%80%EB%A6%AC%22">문제</a></td>
       <td>이정수</td>
     </tr>
     <tr>
       <td align="center">2/9(일)</td>
       <th align="left">[11장] CSS-in-JS</th>
-      <td><a href="">정리</a></td>
-      <td><a href="">문제</a></td>
+      <td><a href="https://github.com/Dev-Ment/ts-study/blob/main/11%EC%9E%A5_CSS-in-JS/%EA%B9%80%EC%9E%AC%EC%98%81.md">정리</a></td>
+      <td><a href="https://github.com/Dev-Ment/ts-study/issues?q=is%3Aissue%20state%3Aclosed%20label%3A%22%5B11%EC%9E%A5%5D%20CSS-in-JS%22">문제</a></td>
       <td>김재영</td>
     </tr>
     <tr>
